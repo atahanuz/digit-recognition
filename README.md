@@ -39,7 +39,7 @@ You can further train my model! You can find the PyTorch neural network model's 
 For anything you can mail me
 atahanuz@gmail.com
 
-
+*This is my first GitHub Repo, I'll appreciate any feedback about what can I do better*
 
 
 
