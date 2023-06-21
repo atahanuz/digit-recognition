@@ -24,7 +24,7 @@ model.pth : The machine learning model, download it.
 image.png   You can download the example, then you can edit or replace it with your drawing to test the model
 ```
 
-After the code is run, it will print its prediction to the console. It will also show the image you drew alongside the prediction in a separate window.
+After the code is run, it will read the image file and print its prediction to the console. It will also show the image you drew alongside the prediction in a separate window.
 
 ## For accurate predictions
 
