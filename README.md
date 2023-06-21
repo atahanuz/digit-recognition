@@ -32,6 +32,13 @@ The model should be able to correctly recognize your drawings. If it doesn't, I 
 
 ![Image Description](https://i.imgur.com/VxGU4oV.png)
 
+## Extra
+
+"You can further train my model! You can find the PyTorch neural network model in the ```class Net(nn.Module):``` section. You can continue to train it to see how much higher accuracy you can achieve."
+
+For anything you can mail me
+atahanuz@gmail.com
+
 
 
 
