@@ -20,11 +20,11 @@ pip install matplotlib
 Usage is extremely simple. Everything works in a single Python file (main.py), just run it from terminal or any editor.
 In the same folder as code, you need two files.
 ```
-model.pth : The machine learning model, download it.
-image.png   You can download the example, then you can edit or replace it with your drawing to test the model
+model.pth : The machine learning model, you must download it.
+image.png   You can download the example, then edit or replace it with your drawing to test the model
 ```
 
-After the code is run, it will read the image file and print its prediction to the console. It will also show the image you drew alongside the prediction in a separate window.
+After the code is run, it will read the image file in image.png and print its prediction to the console. It will also show the image you drew alongside the prediction in a separate window.
 
 ## For accurate predictions
 
